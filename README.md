@@ -1,5 +1,5 @@
 # adumb_dots
-My dot files for kitty cmus ranger bash prompt
+My dot files for kitty cmus ranger and bash prompt
 
 Place these in your ~/.config
 
